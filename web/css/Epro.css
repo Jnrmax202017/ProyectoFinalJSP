@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Montserrat:wght@100&family=Quicksand:wght@300&family=Roboto:wght@100;400;900&display=swap');
+
+.title{  
+    font-family:Quicksand, sans-serif;
+}
+.card-body{
+    border-radius:10px;
+    font-family:Quicksand,sans-serif;
+
+}
+.table-body{
+    font-family:Quicksand,sans-serif;
+    border-radius:10px;
+    background: #F5F8F9;
+    box-shadow: 3px 1px 11px 0px #C4C4BE;
+    text-align: center;
+}
